@@ -1,1 +1,2 @@
 # Challenge-6-API
+The pDF file: VACATION.PY PROOF OF WORK shows screenshots of all charts working, however, because there is a random function generating the cities, the filtering condition like windspeed <4.5, humidity: 0, and max temp: >27 and <21, sometimes prevent any data from showing. So this is just evidence that the code works, I just need to run the code over and over again for it to generate the data that are within the criteria of the quesitons asked, and they then the charts will show up
