@@ -81,7 +81,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-api_keys.py
+#api_keys.py if i leave this code, the api_key.py file will not be submitted to #github, and none of my code will run.
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
